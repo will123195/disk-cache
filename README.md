@@ -1,5 +1,7 @@
 # disk-cache
 
+[![Build Status](https://travis-ci.org/will123195/disk-cache.svg)](https://travis-ci.org/will123195/disk-cache)
+
 Simple disk caching - cache strings to files on disk
 
 ## Installation

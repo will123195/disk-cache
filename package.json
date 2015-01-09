@@ -1,6 +1,6 @@
 {
   "name": "disk-cache",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple disk caching",
   "main": "index.js",
   "scripts": {
